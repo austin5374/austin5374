@@ -1,6 +1,6 @@
 # Hi there! I'm Austin 👋  
   
-Hey, I’m Austin! I’m a junior Computer Science student at the University of Central Florida (3.9 GPA) and currently a Disney Monorail Cast Member. I love learning how software powers real‑world experiences—from attractions and design tools to everyday apps. I’m working on building stronger programming skills in C, Java, and JavaScript (Node & Vue), and I’m excited to contribute to projects that mix engineering, design, and storytelling.  
+I’m a junior Computer Science student at the University of Central Florida (3.9 GPA) and currently a Disney Monorail Cast Member. I love learning how software powers real‑world experiences—from attractions and design tools to everyday apps. I’m working on building stronger programming skills in C, Java, and JavaScript (Node & Vue), and I’m excited to contribute to projects that mix engineering, design, and storytelling.  
   
 Technical Skills  
   
